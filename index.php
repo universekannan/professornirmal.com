@@ -155,7 +155,7 @@
                                         <h3 class="title">Welcome</h3>
 
 
-                 						<p style="text-align:justify">Dr. D. Nirmal is a Full Professor and Head of Electronics and communication Engineering, Karunya Institute of Technology and sciences. He specialized in VLSI  Design after his Bachelor of Engineering and received his Ph.D in Information and Communication Engineering from Anna University. His research interests includes Nanoelectronics, GaN Technology, Device and Circuit Simulation – GSL, Sensors, HEMT, Beyond 5G, Nanoscale device design and modelling. He is a founding chair of IEEE Electron Device Society Coimbatore chapter and volunteered several committees in IEEE. He has funding project tune of 1.2 Cores from various agencies like DRDO(Defence Research and Development Organization), Ministry of Electronics and Information Technology,ISRO(Indian Space Research Organization) and AICTE(All India Council  of Technical Education). He is a recipient of various awards namely IEI-Young Engineer award,IETE Smt. Manorama Rathore memorial award 2022 from IETE and Young Scientist Award 2019 from the Academy of Sciences.
+                 						<p style="text-align:justify">Dr. D. Nirmal is a Full Professor, Associate Dean of Engineering & Technology and Head of Electronics and communication Engineering, Karunya Institute of Technology and sciences. He specialized in VLSI  Design after his Bachelor of Engineering and received his Ph.D in Information and Communication Engineering from Anna University. His research interests includes Nanoelectronics, GaN Technology, Device and Circuit Simulation – GSL, Sensors, HEMT, Beyond 5G, Nanoscale device design and modelling. He is a founding chair of IEEE Electron Device Society Coimbatore chapter and volunteered several committees in IEEE. He has funding project tune of 1.2 Cores from various agencies like DRDO(Defence Research and Development Organization), Ministry of Electronics and Information Technology,ISRO(Indian Space Research Organization) and AICTE(All India Council  of Technical Education). He is a recipient of various awards namely IEI-Young Engineer award,IETE Smt. Manorama Rathore memorial award 2022 from IETE and Young Scientist Award 2019 from the Academy of Sciences.
  Prof.Nirmal has made more than 150+ peer reviewed research publications and three patents to his credits. He is also a Senior IEEE member. He has delivered many Keynote talks, lectures in National and International Level conferences/Faculty Development programs. 
  <br/><br/>
 </p>
@@ -278,7 +278,7 @@
                                         <h3 class="title">Background</h3>
                                            <div class="row">
                                     		<div class="col-md-8">
-                                         <p style="text-align:justify">Dr.D.Nirmal is an Associate Professor in the Department of Electronics and Communication Engineering at the Karunya Institute of Technology and Sciences. He received his Ph.D degree in Information and Communication Engineering from Anna University, India. His research interest includes Nanoelectronics, VLSI Design, Optoelectronics  and Device fabrication. Dr.Nirmal is the author of  many Refereed international journals (Elsevier, Taylor and Francis, Wiley, Hindawi and DRDO) and conferences for his highest level of achievement. He is a Chair of IEEE ED Coimbatore Chapter. He has been awarded as Shir.P.K.Das Memorial Best Faculty Award in the Year 2013. He has received best High impact factor journal publication Award from Karunya University in 2012. Dr.Nirmal is Editor of Microelectronics Journal Elsevier publisher form 2014. Dr.Nirmal also a reviewer and the editorial board member of many International refereed Journals. He has delivered many lecture in National and International Level. He is a Senior member of IEEE, Life Member of IETE,Member SSI , Member ISTE  and VSI Societies.  He was invited to chair several international conference/workshop programs and sessions.</p>        
+                                         <p style="text-align:justify">Dr.D. Nirmal is an Professor, Associate Dean-School of Engineering & Technology and  head in the Department of Electronics and Communication Engineering at the Karunya Institute of Technology and Sciences. He received his Ph.D degree in Information and Communication Engineering from Anna University, India. His research interest includes Nanoelectronics, VLSI Design, Optoelectronics  and Device fabrication. Dr.Nirmal is the author of  many Refereed international journals (Elsevier, Taylor and Francis, Wiley, Hindawi and DRDO) and conferences for his highest level of achievement. He is a Chair of IEEE ED Coimbatore Chapter. He has been awarded as Shir.P.K.Das Memorial Best Faculty Award in the Year 2013. He has received best High impact factor journal publication Award from Karunya University in 2012. Dr.Nirmal is Editor of Microelectronics Journal Elsevier publisher form 2014. Dr.Nirmal also a reviewer and the editorial board member of many International refereed Journals. He has delivered many lecture in National and International Level. He is a Senior member of IEEE, Life Member of IETE,Member SSI , Member ISTE  and VSI Societies.  He was invited to chair several international conference/workshop programs and sessions.</p>        
                                     </div>   
                                 </div>
                             </div>        
@@ -439,22 +439,22 @@
                                         <p style="text-align:justify">
 										
                                                                                 <li>Received IETE Smt. Manorama Rathore memorial award 2022 from IETE.<br/>
-										<li>Karunya university Achievers Award 2019-2020  for obtaining funded project from AICTE<br/>
-										<li>Karunya university Achievers Award 2018-2019  for obtaining funded project from ISRO<br/>
-										<li>Young Achiever Award 2020 from Institution of Engineers, Coimbatore Chapter<br/>
-										<li>Certificate of recognition for publishing in IEEE journal from Madras Section 2020 <br/>
-										<li>Received Best IEEE Volunteer Award 2020 from IEEE Madras Section <br/>
-										<li>Received Young Scientist Award 2019 from the Academy of Sciences, Chennai <br/>
-										<li>IEI Young Enginners Award - Electronics and Telecommunication Engineering - 2017 <br/>
-										<li>Karunya University Achievers Award 2016-2017 for obtaining funded project from DRDO <br/>
+										<li>Best Paper Award from Solid State Electronics Letters on  January, 2021.<br/>
+                                                                                <li>Karunya university Achievers Award 2019-2020  for obtaining funded project from AICTE.<br/>
+										<li>Karunya university Achievers Award 2018-2019  for obtaining funded project from ISRO.<br/>
+										<li>Young Achiever Award 2020 from Institution of Engineers, Coimbatore Chapter.<br/>
+										<li>Certificate of recognition for publishing in IEEE journal from Madras Section 2020. <br/>
+										<li>Received Best IEEE Volunteer Award 2020 from IEEE Madras Section. <br/>
+										<li>Received Young Scientist Award 2019 from the Academy of Sciences, Chennai. <br/>
+										<li>IEI Young Enginners Award - Electronics and Telecommunication Engineering - 2017. <br/>
+										<li>Karunya University Achievers Award 2016-2017 for obtaining funded project from DRDO. <br/>
 										<li>IEEE Madras Section Professional Achievement in the year 2016.<br/>
 										<li>IEEE ED Coimbatore Chapter Chair.	<br/>
-										<li>Best Researcher Award from Karunya University in the year 2014<br/>
+										<li>Best Researcher Award from Karunya University in the year 2014.<br/>
 										<li>Shir.P.K.Das Memorial Best Faculty Award in the Year 2013 by Nehru College of Educational and Charitable Trust.<br/>
 										<li>Best Research Paper Award with high impact factor from Karunya University in the year 2012.	<br/>
 										<li>Received Shiksha Rattan Puraskar Award 2012 from Indian International friend ship Society.<br/>
-										<li>Distinction in Master of Engineering (VLSI DESIGN)<br/>
-										<li>Best Paper Award from Solid State Electronics Letters on  January, 2021.</p>
+										<li>Distinction in Master of Engineering (VLSI DESIGN).</p>
                                     </div>
                                 </div>
                             </div>
@@ -471,8 +471,12 @@
                                         <li>
                                             
                                             <div class="content">
-                                                <h4>VLSI Technology</h4> 
-												<h4>Nanoelectronics</h4>
+                                                <h4>VLSI Technology</h4>
+                                                <h4>CMOS VLSI Technology</h4> 
+				                <h4>Nanoelectronics</h4>
+                                                <h4>Microelectronics</h4>
+                                                <h4>Solid State Device Modeling</h4>
+                                                <h4>Electron Devices</h4>
                                                 <h4>Optoelectronic  Devices</h4>
                                                 <h4>MEMS and Nanotechnology</h4>
                                                 <h4>MEMS and Microsystems</h4>
@@ -737,7 +741,7 @@
                                                     </div>
                                                     <div class="col-sm-6 col-md-9">
                                                         <div class="meta">
-                                                            <h3>Synthetic Experence</h3>
+                                                            <h3>Scientific Experience</h3>
                                                           <!--  <p>Very short description of the project.</p>-->
                                                         </div>
                                                     </div>
@@ -752,28 +756,28 @@
                                 <li>SEM</li>
                                 <li>Raman spectroscopy</li>       
                                 <li>UV Visible</li>                              
-                                <li>Material worked with</li>                              
-                                <li>Zirconium di oxide.</li>
+                                <li>Material worked-Zirconium di oxide</li>
                                 </ol></p></br>
                                        
 <ol>
 										 <h4>Technology Tools:</h4></br>
 
                                 <li>TCAD(Technology computer aided design simulation tool)</li>
-                                <li>Sdevice.</li>
-                                <li>Inspect.</li>
-                                <li>Tecplot.</li>
-                                <li>Mentor. graphics</li>       
-                                <li>Tanner tool.</li>                              
-                                <li>Synopsys.</li>                              
+                                <li>Sdevice</li>
+                                <li>Silvaco Atlas</li>
+                                <li>Inspect</li>
+                                <li>Tecplot</li>
+                                <li>Mentor graphics</li>       
+                                <li>Tanner tool</li>                              
+                                <li>Synopsys</li>                              
                                 </ol></p></br>
                                               
                                       <ol>
 							    <h4>Computer Language Skills:</h4></br>
-                                <li>VHDL.</li>
-                                <li>Verilog.</li>
-                                <li>C++.</li>
-                                <li>C Language.</li>
+                                <li>VHDL</li>
+                                <li>Verilog</li>
+                                <li>C++</li>
+                                <li>C Language</li>
                                 </ol></p></li>
 											 
                                             <li>
@@ -828,7 +832,7 @@
                                                 <div class="details">
                                                 <p style="text-align:justify">
 												<ol>
-                                <li>Editor-IEEE Electron Devices Letters</li>
+                                                                <li>Editor-IEEE Electron Devices Letters</li>
                                                                 <li>Editor- Microelectronics Journal(Elsevier)</li>
 								<li>Guest Editor - IEEE Trans on Nanotechnology</li>
 								<li>Editorial Board member of Journal of Semiconductor Devices and Circuits </li>
@@ -946,7 +950,7 @@
                                                         </div>
 
                                                         <h4 class="pubtitle"  style="text-align:justify">“ Research Publication in International Journals ”</h4>
-                                                        <div class="pubauthor"><strong>Proffesor Nirmal</strong></div>
+                                                        <div class="pubauthor"><strong>Professor D.Nirmal</strong></div>
                                                       <!--  <div class="pubcite"><span class="label label-warning">Conference Papers</span> Journal of Consumer Psychology, Volume 22, Issue 2, April 2012, Pages 191-194</div>-->
                                                         
                                                     </div>
@@ -954,8 +958,19 @@
                                                         <p> 
 														<ol>
 														
-														<li>Gracia, D., <strong>Nirmal, D.</strong>, Moni, D.J. Analysis of nanoscale digital circuits using novel drain-gate underlap DMG hetero-dielectric TFET (2022) <em>Microelectronics Journal, 119, art. no. 105323, . ,</em> DOI: https://dot.org/10.1016/j.mejo.2021.105323 <strong>(Impact Factor : 1.992)</strong></li><hr/>
-														
+														<li>Jebalin, B.K., IV, Gifta, G., Angen, S., Prajoon, P., <strong>Nirmal, D.</strong> Investigation of variable field plate length in GaN HEMT on SiC substrate for MMIC applications(2023) <em> Microelectronics Journal, 138, art. no. 105866 </em> DOI:https://doi.org/10.1016/j.mejo.2023.105866 <strong>(Impact Factor:2.2)</strong></li><hr/>
+
+
+                <li>Ajayan, J., Mohankumar, P., Mathew, R., Thoutam, L.R., Kaushik, B.K., <strong>Nirmal, D.</strong> Organic Electrochemical Transistors (OECTs): Advancements and Exciting Prospects for Future Biosensing Applications(2023) <em> IEEE Transactions on Electron Devices, pp. 1-12.</em> DOI:https://doi.org/10.1109/TED.2023.3271960.<strong> (Impact Factor : 3.72)</strong></li><hr/>
+
+                <li>Ajayan, J., Mohankumar, P., <strong>Nirmal, D.</strong>,Tayal, S., Mounika, B. Ferroelectric Field Effect Transistors (FeFETs): Advancements, challenges and exciting prospects for next generation Non-Volatile Memory (NVM) applications(2023) <em> Materials Today Communications, 2023, 35, 105591</em> DOI: https://doi.org/10.1016/j.mtcomm.2023.105591 <strong>(Impact Factor : 3.662)</strong></li><hr/>
+
+                <li>Angen Franklin, S., Binola K Jebalin, I.V., Chander, S., Ajayan, J., <strong>Nirmal, D.</strong> Investigation on Fe-Doped AlGaN/GaN HEMT at 148 GHz Using E-FPL Technology for High-Frequency Communication Systems (2023) <em>ECS Journal of Solid State Science and Technology, 2023, 12(3), 035006 </em> DOI:https://doi.org/10.1149/2162-8777/acc093 <strong>(Impact Factor : 2.070)</strong></li><hr/>
+
+                <li>Mukherjee, A., Debnath, P., <strong>Nirmal, D.</strong>, Chanda, M. A new analytical modelling of 10 nm negative capacitance-double gate TFET with improved cross talk and miller effects in digital circuit applications(2023) <em> Microelectronics Journal, 2023, 133, 105689 </em> DOI:https://doi.org/10.1016/j.mejo.2023.105689 <strong>(Impact Factor : 1.992)</strong></li><hr/>
+
+                <li>Ajayan, J., <strong>Nirmal, D.</strong>, Jebalin I.V, B.K., Sreejith, S. Advances in neuromorphic devices for the hardware implementation of neuromorphic computing systems for future artificial intelligence applications: A critical review(2022) <em>Microelectronics Journal, 130, 105634 </em>DOI:https://doi.org/10.1016/j.mejo.2022.105634. <strong>(Impact Factor : 1.992)</strong></li><hr/>
+           
 														<li>Kumar, T.A., Rajakumar, G., Samuel, T.S.A., <strong>Nirmal, D</strong>. An In Situ Design/Analysis Method of Antimicrobial Effect Using Nano TiO2 for Disinfecting COVID-Affected Places (2022), <em>Journal of Testing and Evaluation, 50 (5),</em> DOI: https://dot.org/10.1520/JTE20220009. <strong>(Impact Factor : 1.264)</strong></li><hr/>
 														
 														<li>Kumar, J.S.R., <strong>Nirmal, D.</strong>, Hooda, M.K., Singh, S., Ajayan, J., Arivazhagan, L. Intensive Study of Field-Plated AlGaN/GaN HEMT on Silicon Substrate for High Power RF Applications (2022) <em>Silicon, 14 (8), pp. 4277-4282.</em> DOI: https://dot.org/10.1007/s12633-021-01199-w. <strong>(Impact Factor : 2.941)</strong></li><hr/>
@@ -974,7 +989,7 @@
 														
 														<li>Manikandan, M., <strong>Nirmal, D.</strong>, Ajayan, J., Arivazhagan, L., Prajoon, P., Dhivyasri, G., Jagadeeswari, M.Physics based modeling of AlGaN/BGaN quantum well based ultra violet light emitting diodes (2022) <em>Optical and Quantum Electronics, 54 (3), art. no. 168,</em> DOI: https://dot.org/10.1007/s11082-022-03552-8 <strong>(Impact Factor : 2.794)</strong></li><hr/>
 														
-														<li>Gracia, D., <strong>Nirmal, D.<s/trong>, Moni, D.J. Analysis of nanoscale digital circuits using novel drain-gate underlap DMG hetero-dielectric TFET (2022) <em>Microelectronics Journal.</em> DOI: https://dot.org/10.1016/j.mejo.2021.105323 <strong>(Impact Factor : 1.992) </strong></li><hr/>
+														<li>Gracia, D., <strong>Nirmal, D.</strong>, Moni, D.J. Analysis of nanoscale digital circuits using novel drain-gate underlap DMG hetero-dielectric TFET (2022) <em>Microelectronics Journal.</em> DOI: https://dot.org/10.1016/j.mejo.2021.105323 <strong>(Impact Factor : 1.992) </strong></li><hr/>
 														
 														<li>Fletcher, A.S.A., <strong>Nirmal, D.</strong>, Arivazhagan, L., Ajayan, J., Raj, M.G., Hamza, K.H., Murugapandiyan,P., Natarajan, R. A 28-GHz Low-Loss AlGaN/GaN HEMT for TX/RX Switches in 5G Base Stations (2022) <em>Journal of Electronic Materials.</em> DOI: https://dot.org/10.1007/s11664-021-09367-9 <strong>(Impact Factor : 2.047)</strong></li><hr/>
 														
@@ -1138,7 +1153,7 @@
                                                         <div class="pubassets"> </div>
 
                                                         <h4 class="pubtitle"  style="text-align:justify">“ Research Publications in International Conference ”</h4>
-                                                        <div class="pubauthor"><strong>Professor Nirmal</strong></div>
+                                                        <div class="pubauthor"><strong>Professor D.Nirmal</strong></div>
                                                       <!--  <div class="pubcite"><span class="label label-warning">Conference Papers</span> Journal of Consumer Psychology, Volume 22, Issue 2, April 2012, Pages 191-194</div>-->
                                                         
                                                     </div>
@@ -1146,13 +1161,17 @@
                                                         <p> 
 								   <ol>
 
-								 <li>Micheal Snow., J., Nirmal, D., Samuel, G., Khausik., S., John, H.V.D. Investigation of GdO/α-GaO/YO Based Moshemt for Drain Current Improvement (2022) ICDCS 2022 - 2022 6th International Conference on Devices, Circuits and Systems, pp. 489-493. DOI: 10.1109/ICDCS54290.2022.9780822</li><hr/>
+								 <li>Ravindran, A., <strong>Nirmal, D.</strong>, Jebalin I. V, B.K., Ajayan, J., Prajoon, P. “Investigation on Impact of GaAs and GaN Blazed Grating for High Performance UV-VIS Spectrometer” 3rd International Conference on Electronics and Sustainable Communication Systems, ICESC 2022 - Proceedings, 2022, pp. 1326–1332 DOI:10.1109/ICESC54411.2022.9885635.</li><hr/>
+
+                                                                 <li>Kumar, J.S.R., <strong>Nirmal, D.</strong>, Du John, H.V., Angen Franklin, S., Samuel, G. “Design and Simulation of a T-gated AlGaN/GaN HEMT with Added Mini Field Plate” 3rd International Conference on Electronics and Sustainable Communication Systems, ICESC 2022 - Proceedings, 2022, pp. 303–306 DOI: 10.1109/ICESC54411.2022.9885639.</li><hr/>
+
+                                                                 <li>Micheal Snow., J., <strong>Nirmal, D.</strong>, Samuel, G., Khausik., S., John, H.V.D. Investigation of GdO/α-GaO/YO Based Moshemt for Drain Current Improvement (2022) ICDCS 2022 - 2022 6th International Conference on Devices, Circuits and Systems, pp. 489-493. DOI: 10.1109/ICDCS54290.2022.9780822</li><hr/>
 								 
-								 <li>Dhivyasri, G., Nirmal, D., Manikandan, M., Gokiladeepa, G., Ajayan, J., Menagadevi, M. Simulation and Comparison of AlGaN LEDs with Boron Doped GaN Well Using Assorted Aluminium Concentration (2022) 2022 IEEE International Conference on Nanoelectronics, Nanophotonics, Nanomaterials, Nanobioscience and Nanotechnology, 5NANO 2022, DOI: 10.1109/5NANO53044.2022.9828912</li><hr/>
+								 <li>Dhivyasri, G., <strong>Nirmal, D.</strong>, Manikandan, M., Gokiladeepa, G., Ajayan, J., Menagadevi, M. Simulation and Comparison of AlGaN LEDs with Boron Doped GaN Well Using Assorted Aluminium Concentration (2022) 2022 IEEE International Conference on Nanoelectronics, Nanophotonics, Nanomaterials, Nanobioscience and Nanotechnology, 5NANO 2022, DOI: 10.1109/5NANO53044.2022.9828912</li><hr/>
 								 
-								 <li>Husna, H.K., Nirmal, D., Merlin Gilbert Raj, S., Ajayan, J., Arivazhagan, L., Augustine Fletcher, A.S. 6 GHz GaN HEMT linear power amplifier (2021) 2021 3rd International Conference on Signal Processing and Communication, ICPSC 2021, art. no. 9451754, pp. 219-222, DOI: 10.1109/ICSPC51351.2021.9451754 </li><hr/>
+								 <li>Husna, H.K., <strong>Nirmal, D.</strong>, Merlin Gilbert Raj, S., Ajayan, J., Arivazhagan, L., Augustine Fletcher, A.S. 6 GHz GaN HEMT linear power amplifier (2021) 2021 3rd International Conference on Signal Processing and Communication, ICPSC 2021, art. no. 9451754, pp. 219-222, DOI: 10.1109/ICSPC51351.2021.9451754 </li><hr/>
 								 
-								 <li>Manikandan, M., Nirmal, D., Dhivyasri, G., Arivahagan, L., Ajayan, J., Chandru, R., Rajeshwaran, K. Simulation analysis of UV -A band LEDs with BGaN single quantum well using SiC substrate for medical applications (2021) 2021 3rd International Conference on Signal Processing and Communication, ICPSC 2021, art. no. 9451764, pp. 312-314, DOI: 10.1109/ICSPC51351.2021.9451764</li><hr/>
+								 <li>Manikandan, M., <strong>Nirmal, D.</strong>, Dhivyasri, G., Arivahagan, L., Ajayan, J., Chandru, R., Rajeshwaran, K. Simulation analysis of UV -A band LEDs with BGaN single quantum well using SiC substrate for medical applications (2021) 2021 3rd International Conference on Signal Processing and Communication, ICPSC 2021, art. no. 9451764, pp. 312-314, DOI: 10.1109/ICSPC51351.2021.9451764</li><hr/>
 								 
 								 <li>Husna, H.K., <strong>Nirmal, D.</strong>, Merlin Gilbert Raj, S., Ajayan, J., Arivazhagan, L., Augustine Fletcher, A.S. 6 GHz GaN HEMT linear power amplifier (2021) 2021 3rd International Conference on Signal Processing and Communication, ICPSC 2021, DOI: 10.1109/ICSPC51351.2021.9451754</li><hr/>
 						
@@ -1249,7 +1268,7 @@
 
                                                         <h4 class="pubtitle"  style="text-align:justify">
 														“ Research Publication In National Conference ”</h4>
-                                                        <div class="pubauthor"><strong>Proffesor Nirmal</strong></div>
+                                                        <div class="pubauthor"><strong>Professor D.Nirmal</strong></div>
                                                       <!--  <div class="pubcite"><span class="label label-warning">Conference Papers</span> Journal of Consumer Psychology, Volume 22, Issue 2, April 2012, Pages 191-194</div>-->
                                                         
                                                     </div>
@@ -1260,7 +1279,7 @@
                                 <li><strong>Nirmal</strong>, Vijayakumar, Samjebaraj, Christopher, Arockia, Sunil “FinFETs For Future Nano Scale Technology” National Conference on the theme ‘Emerging trends in RF and Signal Processing FISAT , Kerala,India, 25-27, March 2010,pp. 161-165.</li><hr/>
                                 <li><strong>Nirmal</strong>, Vijayakumar, Samjebaraj, Christopher, Arockia, Sunil “CMOS logic design with Double Gate Transistors” National Conference on VLSI,Image processing and Wireless communication ARASU Engineering College, India 20th March 2010,pp.1-7. </li><hr/>
                                 <li><strong>Nirmal</strong>, Vijay “Implementation of Low Power Circuits Using FinFETs” National Conference on Microwave and Optical Communication, Alagappa Chrttiar College Of Engineering And Technology, India,2009.</li><hr/>
-                                <li><strong>Nirmal</strong>, Jackuline Moni “Floorplanning Based on Btree* and simulated Annealing” National conference on Modeling, Analysis and Simulation of Computer and Telecommunication systems Government College Of Engineering Salem, India,2007.</li>
+                                <li><strong>Nirmal</strong>, Jackuline Moni “Floorplanning Based on Btree* and simulated Annealing” National conference on Modeling, Analysis and Simulation of Computer and Telecommunication systems, Government College Of Engineering Salem, India,2007.</li>
                                 </ol><p/> 
                                  </div>
                                       </div>
@@ -1308,13 +1327,13 @@
                                             
                                             <div class="content">
                                                 <h4>VLSI Technology</h4> 
-												<h4>CMOS VLSI Technology</h4>
+					        <h4>CMOS VLSI Technology</h4>
                                                 <h4>Nanoelectronics.</h4>
                                                 <h4>Solid State Device Modeling</h4>
                                                 <h4>Microelectronics</h4>
                                                 <h4>Solid State Electronics</h4>
                                                 <h4>Electron Devices</h4>
-												<h4>Microwave and Optical Engineering</h4>
+			                        <h4>Microwave and Optical Engineering</h4>
 
                                             </div>
                                         </li>
@@ -1450,6 +1469,30 @@
                                                         <h4></h4>
 														
                                                         <p>
+<li>Resource Person for DRDO sponsored Nation seminar on ‘3D Monolithic, Microwave Integrated Circuits Design Fabrication and Applications, conducted on November 09, 2022 at Dhanalakshmi Srinivasan College of Enginneirng, Coimbatore.</li><hr/>
+
+<li>Resource Person for IEEE Day seminar on ‘Electronic materials, devices and Systems for Beyond 5G systems’ conducted on September 19,2022 at Karpagam College of Engineering , Coimbatore.</li><hr/>
+
+<li>Resource Person on ‘Workshop on Manuscript Preparation and Submisison’ conducted on September 13,2022 at Avinashilingam Institute for Home Sciences and Higher Education for women , Coimbatore</li><hr/>
+
+<li>Resource Person for the Guest lecture on ‘Werable sensor devices’ conducted on September 10,2022 at Karpagam Institute of Technology , Coimbatore</li><hr/>
+
+<li>Resource Person for the Anna University sponsored FDP on ‘Electronics Packing and Testing, conducted on Auguest 08,2022 at KPR Institute of Engineering and Technology , Coimbatore</li><hr/>
+
+<li>Resource Person for the lecture on ‘Memory Core and Memory Peripheral Security, in the FDP conducted on January19,2022 at PSNA College of Technology, Dindigul</li><hr/>
+
+<li>Resource Person for the lecture on ‘Electronics System Design and Manufacturing in Technology Node Perspective and Blended Research Outputs Metrics’,conducted on January20,2022 at United Institute of Technology, Coimbatore.</li><hr/>
+
+<li>Exceptional contribution as Primary Evaluator in the Toycathon 2021 conducted by Ministry of Education Innovation Cell.</li><hr/>
+
+<li>Resource Person for the workshop on ‘NanoMaterials & Devices: Physics and Applications’,conducted on March 11th and 12th at VIT Chennai.</li><hr/>
+
+<li>Keynote talk on “Sustainable Electronic system in current trends” at the 6thInternational Conference on Inventive Computation Technologies(ICICT-2021) organized by RVS Technical Campus, Coimbatore, Tamilnadu, India, on 21.01.2021.</li><hr/>
+
+<li>Resource Person in the 2 Day Online Faculty Development Program on Future Perspective of Semiconductor Devices organized by Kalasalingam Academy of Research and Education on 22-24 June 2021</li><hr/>
+
+<li>Keynote talk in the 2nd International Conference on Electronics and Sustainable Communication Systems held at Hindustan Institute of Technology and Sciences, Coimbatore, India on 04 August 2021</li><hr/>
+
 <li>Resource Person in the 2 Day National Level workshop on Modelling of semiconductor Quantum Devices for a Sustainable Energy System using TCAD” organized by Kalasalingam Academy of Research and Education on 08 January 2021</li><hr/>
 
 <li>Keynote address on “Sustainable Electronic System in Current Trends” in6thInternational conference on Inventive Computation Technologies (ICICT-2021) held RVS Technical Campus, India  21 January 2021</li><hr/>
@@ -1564,13 +1607,14 @@
                                                         </div>
 
                                                         <h4 class="pubtitle"  style="text-align:justify">International Conference Resource Person </h4>
-                                                      <div class="pubauthor"><strong>Professor Nirmal</strong></div>
+                                                      <div class="pubauthor"><strong>Professor D.Nirmal</strong></div>
                                                      <!--  <div class="pubcite"><span class="label label-warning">Conference Papers</span> Journal of Consumer Psychology, Volume 22, Issue 2, April 2011, Pages 191-194</div>-->
                                                       
                                                     </div>
                                                     <div class="pubdetails">
                                                         <h4></h4>
                                                         <p>
+<li>Technical Reviewer for the manuscripts submitted for the IEEE Madras Section International Conference 2021 (MASCON2021) held at Hotel Le-Royal Meridien, Chennai, Tamil Nadu, India during 27th-28th August 2021.</li><hr/>
 <li>Session Chair in the “ 2nd International conference on VLSI Devices, Circuits and Systems” held in Meghnadsaha Institute of Technology Kolkata, India  18th and 19thJuly 2020.</li><hr/>
 <li>Sharing in the “VIRTUAL CONFERENCE ORGANIZERS’ PANEL” held in IEEE Bangladesh Section,Bangladesh1st and 2nd July 2020.</li><hr/>
 <li>Session Chair in the “IEEE Sponsored 4th International conference on Communication and Electronic systems” held in PPG Institute of Technology, India. 17th July 2019.</li><hr/>
@@ -1632,7 +1676,7 @@
                                                         </div>
 
                                                         <h4 class="pubtitle"  style="text-align:justify">National Conference Resource Person :</h4>
-                                                       <div class="pubauthor"><strong>Professor Nirmal</strong></div>
+                                                       <div class="pubauthor"><strong>Professor D.Nirmal</strong></div>
                                  
                                                     </div>
                                                     <div class="pubdetails">
@@ -1669,19 +1713,16 @@
                                 <div class="row">
                                     <div class="col-md-12">
                                         <p style="text-align:justify">Life Member of ISTE(Indian Society for Technical Education)<br/><br/>
-
+Fellow of IETE (The Institution of Electronic and Telecommunication Engineers) M-215257<br/><br/>
 Senior Member of IEEE (Institute of Electrical and Electronics Engineering)<br/><br/>
-
+Life Member of ISTE(Indian Society for Technical Education)LM-56881<br/><br/>
 Member of VSI (VLSI Society Of India)<br/><br/>
-
 Life Member of SSI(Semiconductor Society of India)<br/><br/>
-
-Life Member of IETE (The Institution of Electronic and Telecommunication Engineers)
+Member of Institute of Engineers (India)M-1544705.<br/><br/>
+Life Member of IETE (The Institution of Electronic and Telecommunication Engineers)<br/><br/>
 Life Member of IAENG(International Association for engineers)<br/><br/>
-
 Member of IACSIT(International Association Of Computer Science And Information Technology)<br/><br/>
-
-Member of ACCENT (Association of Computer Communication Education for National Triumph Social and Welfare Society)
+Member of ACCENT (Association of Computer Communication Education for National Triumph Social and Welfare Society)<br/><br/>
 
 </p>
                                     </div>
@@ -1790,12 +1831,12 @@ Member of ACCENT (Association of Computer Communication Education for National T
                                     </div>
                                    <div class="col-md-9">
                                            
-                                        <p style="text-align:justify">Dr. D. Nirmal has obtained his Bachelor of Engineering in Electrical and Electronics Engineering from Anna University Chennai and M.Tech in VLSI Design from Karunya Institute of Technology and Sciences. He has received Ph.D in Information and Communication Engineering from Anna University. He is presently working as an Associate Professor and Head in the Department of Electronics and Communication engineering. His research interests includes Nanoelectronics, 1D/2D Materials, Carbon nanotubes, GaN Technology, VLSI Technology, NanosacleDevice Modelling and Simulation – HEMT, FINFET, LED, Energy Storage Devices,GSI, Sensors,  . He is a founding chair of IEEE EDS Coimbatore chapter. He has completed a project funded by DRDO and Ministry of Electronics and Information Technology, Government of India and currently handling a funded project from ISRO,Department of Space and AICTE(All India Council of technical Education).<br>
-										 He has published more than 100 research papers.Currently he is a Chair of IEEE EDS Coimbatore chapter Madras Section and Member of IEEE Electron Device society VLSI Technology and Circuits committee. He is a recipient of several awards for his credits to name few Young Scientist Award 2019 from the Academy of SciencesChennai, Institution of Engineers India Young Engineers Award- Electronics and Telecommunication Engineering- 2017,Shir.P.K.Das Memorial Best Faculty Awardand many more. He an Editor for several International Journals and reviewer for many IEEE Transactions for his research credits. He also a Senior IEEE member, Life member of ISTE , Member of IETE and also Member of IEI. He has delivered many Keynote address and lectures in National and International conferences/programs. </p>
+                                        <p style="text-align:justify">Dr. D. Nirmal has obtained his Bachelor of Engineering in Electrical and Electronics Engineering from Anna University Chennai and M.Tech in VLSI Design from Karunya Institute of Technology and Sciences. He has received Ph.D in Information and Communication Engineering from Anna University. He is presently working as an Professor, Associate Dean-Engineering & Technology and Head in the Department of Electronics and Communication engineering, Karunya Institute of Technology and Sciences, Coimbatore. His research interests includes Nanoelectronics, 1D/2D Materials, Carbon nanotubes, GaN Technology, VLSI Technology, NanosacleDevice Modelling and Simulation – HEMT, FINFET, LED, Energy Storage Devices,GSI, Sensors,  . He is a founding chair of IEEE EDS Coimbatore chapter. He has completed a project funded by DRDO and Ministry of Electronics and Information Technology, Government of India and currently handling a funded project from ISRO,Department of Space and AICTE(All India Council of technical Education).<br>
+										 He has published more than 150 research papers.Currently he is a Chair of IEEE EDS Coimbatore chapter Madras Section and Member of IEEE Electron Device society VLSI Technology and Circuits committee. He is a recipient of several awards for his credits to name few Young Scientist Award 2019 from the Academy of SciencesChennai, Institution of Engineers India Young Engineers Award- Electronics and Telecommunication Engineering- 2017,Shir.P.K.Das Memorial Best Faculty Awardand many more. He an Editor for several International Journals and reviewer for many IEEE Transactions for his research credits. He also a Senior IEEE member, Life member of ISTE , Member of IETE and also Member of IEI. He has delivered many Keynote address and lectures in National and International conferences/programs. </p>
                        <div class="content">
                         <h3><b>Office Address<b/></h3>
 					<p style="text-align:justify">Dr.D.Nirmal,M.E, Ph.D.,SMIEEE.,LMIETE.,MISTE.,</p>
-					<p style="text-align:justify">Professor & Head of the Department,</p>
+					<p style="text-align:justify">Professor, Associate Dean-School of Engineering & Technology and Head of the Department,</p>
                     <p style="text-align:justify">Department of Electronics and Communication Engineering</p>
                     <p style="text-align:justify">Karunya Institute of Technology and Sciences.</p>
                         </div>
